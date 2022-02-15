@@ -1,0 +1,13 @@
+body {
+  background-color: gray;
+  font-family: "Helvetica Neue Light", Helvetica, sans-serif;
+  font-weight: 300;
+  text-align: center;
+  width: 600px center;
+  padding-left: 85px;
+  padding-right: 85px;
+}
+form{
+  
+  text-align: left;
+}
